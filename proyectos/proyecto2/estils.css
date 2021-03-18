@@ -1,0 +1,191 @@
+.img{
+	border-radius: 5px;
+	height: 240px;
+  width: 240px;
+  margin: 20px 0;
+  margin-left: 10px;
+  background-size: 100% 100%;
+  background-repeat:no-repeat;
+  float: left;
+}
+
+#comic1a{
+	background-image: url(img/comic1.jpg);
+}
+#comic1b{
+	background-image: url(img/comic2.jpg);
+}
+#comic1c{
+	background-image: url(img/comic3.jpg);
+}
+#comic1d{
+	background-image: url(img/comic4.jpg);
+}
+#comic1e{
+	background-image: url(img/comic5.jpg);
+}
+#comic1f{
+	background-image: url(img/comic6.jpg);
+}
+#comic1g{
+	background-image: url(img/comic7.jpg);
+}
+#comic1h{
+	background-image: url(img/comic8.jpg);
+}
+#comic1i{
+	background-image: url(img/comic9.jpg);
+}
+#comic1j{
+	background-image: url(img/comic10.jpg);
+}
+#comic1k{
+	background-image: url(img/comic11.jpg);
+}
+#comic1l{
+	background-image: url(img/comic12.jpg);
+}
+#comic1m{
+	background-image: url(img/comic13.jpg);
+}
+#comic1n{
+	background-image: url(img/comic14.jpg);
+}
+#comic1o{
+	background-image: url(img/comic15.jpg);
+}
+#comic1p{
+	background-image: url(img/comic16.jpg);
+}
+#comic1q{
+	background-image: url(img/comic17.jpg);
+}
+#comic1r{
+	background-image: url(img/comic18.jpg);
+}
+#comic1s{
+	background-image: url(img/comic19.jpg);
+}
+#comic1t{
+	background-image: url(img/comic20.jpg);
+}
+#comic1u{
+	background-image: url(img/comic21.jpg);
+}
+#comic1w{
+	background-image: url(img/comic22.jpg);
+}
+#comic1x{
+	background-image: url(img/comic23.jpg);
+}
+#comic1y{
+	background-image: url(img/comic24.jpg);
+}
+#comic1z{
+	background-image: url(img/comic25.jpg);
+}
+#comic1aa{
+	background-image: url(img/comic26.jpg);
+}
+#comic1bb{
+	background-image: url(img/comic27.jpg);
+}
+#comic1cc{
+	background-image: url(img/comic28.jpg);
+}
+#comic1dd{
+	background-image: url(img/comic29.jpg);
+}
+#comic1ee{
+	background-image: url(img/comic30.jpg);
+}
+#comic1ff{
+	background-image: url(img/comic31.jpg);
+}
+
+#portada2{
+	background-image: url(img/2004YTuQueSabes.jpg);
+}
+#portada3{
+	background-image: url(img/2005Earthlings.jpg);
+}
+#portada4{
+	background-image: url(img/2007Helvetica.jpg);
+}
+#portada5{
+	background-image: url(img/2007Sicko.jpg);
+}
+#portada6{
+	background-image: url(img/2008Zeitgeist2.jpg);
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  line-height: 1.45;
+  color: #0F1108;
+  background-color: white
+}
+
+/* Fin de la tab bar */
+
+/* Inicio de la descripción */
+
+html, body {
+	margin: 0;
+	padding: 0;
+	}
+.white{
+	padding: 15px;
+  }
+
+#description{
+  background-color: #F2E9DE;
+  margin-bottom: 30px;
+  width: 100%;
+  height: 100%;
+  padding: 1rem;
+  box-sizing: border-box;
+  
+}
+/* Fin de la descripción */
+
+/* Inicio del portfolio */
+
+/* Fin del portfolio */
+
+/* Inicio de la bottom bar */
+#comic{
+	margin: auto;
+	text-align: left;
+	position: relative;
+  width: 1000px;
+  height: 1000px;
+}
+
+.fin{
+  background-color: #F2E9DE;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding: 0.5%;
+}
+.volver{
+  background-color: #1F1F1F;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding: 0.5%;
+  color: white;
+}
+
+a:link, a:visited, a:active {
+  text-decoration:none;
+  color: #1F1F1F;
+}
+
+h1{
+  text-align: center;
+}
+
+/* Fin de la bottom bar */
